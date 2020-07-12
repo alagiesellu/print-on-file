@@ -65,7 +65,6 @@ export default {
   display: flex;
   height: 100vh;
   justify-content: center;
-  background: linear-gradient(rgba(255,255,255,0.95), rgba(255,255,255,0.95)), url("/logo.png") no-repeat;
   background-size: contain;
   background-position: center;
 }
